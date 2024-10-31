@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>DOCUMENTO FOCACCIA</title>
+        <style>
+             
+           header {
+                width: 100%;
+                text-align: center;
+                margin: auto;
+            }
+            img {
+                width: 20%;
+            }
+
+            body {
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                margin-top: 5%;
+                margin-left: 20%;
+                margin-right: 20%;
+            }
+
+            #SIMPLY {
+                background-attachment: fixed;
+                background-color: beige; 
+            }
+
+            #FOCACCIA {
+                width: 50%;
+                margin-left: 35%;
+                margin-right: 40%;
+            }
+
+            h4 {
+                width: 50%;
+                margin-left: 40%;
+                margin-right: 40%;
+            }
+
+            #COL1 {
+                color: rgb(210, 35, 35);
+            }
+
+            #COL2 {
+                color: rgba(10, 60, 77, 0.849);
+                text-decoration: underline;
+            }
+
+            #ELENCO {
+                margin-top: 6%;
+            }
+            #recipes {
+                width: 40%;
+                margin-top: 10%;
+                color: rgba(5, 42, 226, 0.849);
+                text-decoration: underline;
+            } 
+            #MAKE {
+                width: 40%;
+                margin-left: 10%;
+                margin-right: 10%;
+                
+            } 
+            #MAKE2 {
+                width: 40%;
+                margin-left: 10%;
+                margin-right: 10%;
+                
+            } 
+
+       </style>
+    </head>
+
+    <body>
+        <header>
+            <img src="Simply_Recipes_Logo_-_2021.png" alt="LOGO"/> <br>
+            <span id="SIMPLY">
+                A part of 
+                <span>
+                    <strong> A SIMPLY FABULOUS THANKSGIVING</strong>
+                </span>
+            </span> 
+        </header>
+        <main>
+            <div>
+                <h1>Focaccia with Caramelized Onions, Cranberries, and Brie</h1>
+            </div>
+            <div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt laboriosam, ducimus architecto, esse aliquam officiis molestias adipisci corrupti maiores quisquam placeat amet. Sed, ullam blanditiis! Fugit dolores nam in adipisci.</p>
+               <img id="FOCACCIA" src="__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2020__12__Cranberry-Brie-Onion-Focaccia-LEAD-4-616c900337a44d82b82fe04845ba8c2b.webp" alt="Focaccia"/>
+               <h4> Image by: Sally Vagas</h4>
+            </div>
+            <div id="FEAT">
+                <span id="COL1">FEATURED IN:</span> </br>
+                <span id="COL2">Fresh Cranberry Recipes That Go Beyond Sauce</span>
+            </div>
+            <div id="ELENCO">
+                <h2><strong>Ingredients</strong></h2>
+                    <span><strong>For the focaccia:</strong></span>
+               <ul>
+                <li>4 cups (500g) all-purpose flour</li>
+                <li>11/2 teaspoons instant yeast</li>
+                <li>11/2 teaspons salt</li>
+                <li>13/4 cups (350g) lukewarm water</li>
+                <li>1/4 cup extra virgin olive oil, plus more for the pan</li>
+               </ul> 
+            </div>
+            <div>
+                <span>
+                    <strong>For the topping:</strong>
+                </span>
+                <ul>
+                    <li>3 medium yellow onions, thinly sliced</li>
+                    <li>1 tablespoon balsamic vinegar</li>
+                    <li>1-2 tablespoons olive oil, for brushing on top</li>
+                    <li>1o ounces brie, cut into cubes (scrape rind off with a paring knife if desired, though it's not necessary)</li>
+                    <li>11/2 cup fresh or frozen cranberries</li>
+                   </ul> 
+            </div>
+            <div>
+                <span id="METODO"><strong>Method</strong></span></br>
+                <span id="MAKE">1.Make the focaccia dough</span>
+                <p id="MAKE2">
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio magni molestiae rerum natus eius ipsa reprehenderit, at blanditiis ipsum eum iure aspernatur exercitationem animi et fugit, atque porro, nostrum iste.
+                </p>
+                   
+            </div>
+        </main>
+        <footer>
+            <span>
+                Read more on 
+                <span id="recipes">Simply recipes</span>
+            </span>
+        </footer>
+    </body>
+
+</html>
